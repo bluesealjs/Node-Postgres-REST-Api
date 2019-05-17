@@ -1,0 +1,24 @@
+{
+  "name": "project-using-elephantsql",
+  "version": "1.0.0",
+  "description": "learning postgres using remote postgres databse on elephantsql.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel server.js --out-dir build"
+  },
+  "author": "blueseal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.0",
+    "moment": "^2.24.0",
+    "pg": "^7.11.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "make-runnable": "^1.3.6"
+  }
+}
