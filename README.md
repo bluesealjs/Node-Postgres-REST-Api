@@ -8,4 +8,5 @@ I was facing issues while following the repo (above link). So, I ended up changi
 
 
 
-MySql version of this repo @ https://github.com/sudhir-pradhan/Node-Mysql-REST-Api
+MySql version of this repo @ https://github.com/sudhir-pradhan/Node-Mysql-REST-Api ,
+MongoDB version of this repo @ out https://github.com/sudhir-pradhan/Node-MongoDB-REST-Api
